@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shayanfarshid
 - 👀 I’m interested in analytics, visualizations, and product mgt
 - 🌱 I’m currently studying in UC Davis
-- 📫 How to reach me ...
+- 📫 Reach me at sfarshid@ucdavis.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a third ear ;)
 
