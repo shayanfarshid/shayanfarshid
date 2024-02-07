@@ -1,9 +1,9 @@
 - 👋 Hi, I am @shayanfarshid
-- 👀 Interested in analytics, visualizations, and product mgt
+- 📊 Interested in analytics, visualizations, and product mgt
 - 🌱 Currently Pursuing Masters Degree in Business Analytics @ UC Davis
-- 📫 Reach me at sfarshid@ucdavis.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a 'third ear' ;)
+- 👨‍💻 Open to opportunities starting June '24!
+- 📫 Feel free to reach out to me at sfarshid@ucdavis.edu
+- 😇 Fun fact: I have a 'third ear' ;)
 
 <!---
 title
