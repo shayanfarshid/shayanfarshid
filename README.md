@@ -3,7 +3,6 @@
 - 🌱 Currently Pursuing Masters Degree in Business Analytics @ UC Davis
 - 👨‍💻 Open to opportunities starting June '24!
 - 📫 Feel free to reach out to me at sfarshid@ucdavis.edu
-- 😇 Fun fact: I have a 'third ear' ;)
 
 <!---
 title
