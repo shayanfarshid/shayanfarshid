@@ -1,9 +1,16 @@
 - 👋 Hi, I'm @shayanfarshid
 - 📊 Interested in analytics, visualizations, and product mgt related roles
-- 🌱 Finishing Masters Degree in Business Analytics @ UC Davis
+- 🌱 MS in Business Analytics @ UC Davis
 - 👨‍💻 Open to opportunities starting June '24!
 - 📫 Reach me at sfarshid@ucdavis.edu
 - 🌐 Connect on LinkedIn at https://www.linkedin.com/in/sfarshid/
+#
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
 <!---
 title
 --->
