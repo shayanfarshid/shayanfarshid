@@ -16,7 +16,7 @@ title
 --->
 ## 📈 Featured Dashboards
 
-### Bay Area Collision Analysis (Proposed Dashboard)
+### Bay Area Collision Analysis (Dashboard)
 ![Screenshot 2024-05-06 at 1 42 58 PM](https://github.com/shayanfarshid/shayanfarshid/assets/135238084/2946be99-7c37-4f4d-8ddb-5d87b3cd4e8e)
 
 ### Valentine's Day Visualization
