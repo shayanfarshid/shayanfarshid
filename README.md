@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @shayanfarshid
-- 📊 Interested in analytics, visualizations, and product mgt roles
+- 📊 Interested in analytics, visualizations, and BizOps roles
+- 👨‍💻 Working as a Grad Research Fellow @ SDSURF. Open to opportunities!
 - 🌱 Graduated with an MS in Business Analytics @ UC Davis
-- 👨‍💻 Working as CS Manager @ MedSer. Open to opportunities!
 - 📫 Reach me at sfarshid@ucdavis.edu
 - 🌐 Connect on LinkedIn at https://www.linkedin.com/in/sfarshid/
 #
