@@ -1,9 +1,9 @@
 - 👋 Hi, I'm @shayanfarshid
 - 📊 Interested in analytics, visualizations, and BizOps roles
 - 👨‍💻 Working as a Grad Research Fellow @ SDSURF. Open to opportunities!
-- 🌱 Graduated with an MS in Business Analytics @ UC Davis
+- 🌱 MS in Business Analytics Grad @ UC Davis
 - 📫 Reach me at sfarshid@ucdavis.edu
-- 🌐 Connect on LinkedIn at https://www.linkedin.com/in/sfarshid/
+- 🌐 Head over to https://sfarshid.me
 #
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
